@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-tolima.github.io/CF010_231100_SANEAMIENTO_Y_SALUD_AMBIENTAL/#/]([CF010_231100_SANEAMIENTO_Y_SALUD_AMBIENTAL](https://ecoredsena-tolima.github.io/CF010_231100_SANEAMIENTO_Y_SALUD_AMBIENTAL/#/))
+[https://ecoredsena-tolima.github.io/CF010_231100_SANEAMIENTO_Y_SALUD_AMBIENTAL/#/](CF010_231100_SANEAMIENTO_Y_SALUD_AMBIENTAL)
 
 #
 
