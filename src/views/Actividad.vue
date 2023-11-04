@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 ¿Cuánto sabes de la contaminación atmosférica y el impacto del cambio climático?
-        p.mb-4 #[b Objetivo:] Afianzar los conocimientos en contaminación atmosférica y cambio climático.
+        p.mb-4 #[b Objetivo:] afianzar los conocimientos en contaminación atmosférica y cambio climático.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Opcion múltiple
+              p.fw-bold.mb-0 Cuestionario
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

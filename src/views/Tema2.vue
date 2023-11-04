@@ -621,12 +621,12 @@
           .row(numero="4" titulo="Deforestación")
             .col-md-12.mb-4.mb-md-0          
               p Prevenir la deforestación y degradación forestal.
-          .row(numero="5" titulo="Acuerdos")
+          .row(numero="5" titulo="Recursos")
+            .col-md-12.mb-4.mb-md-0          
+              p Promover el desarrollo de sistemas ahorradores de recursos naturales.
+          .row(numero="6" titulo="Acuerdos")
             .col-md-12.mb-4.mb-md-0          
               p Resolver conflictos mediante acuerdos entre los sectores económicos y las comunidades.
-          .row(numero="6" titulo="Ecosistemas")
-            .col-md-12.mb-4.mb-md-0          
-              p Conservar y restaurar los ecosistemas que proveen servicios ecosistémicos y que favorecen la adaptación al cambio climático.
           .row(numero="7" titulo="Autoridades")
             .col-md-12.mb-4.mb-md-0          
               p Mejorar la capacidad institucional de las autoridades ambientales.                
