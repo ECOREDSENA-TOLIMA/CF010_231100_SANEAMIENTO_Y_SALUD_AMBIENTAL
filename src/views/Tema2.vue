@@ -7,7 +7,7 @@
         span 2
       h1 Normatividad del cambio climático
     
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img1.png')})`}"
       )
@@ -19,22 +19,22 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.1 Políticas internacionales
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Las cumbres climáticas organizadas por las Naciones Unidas son eventos importantes donde se abordan cuestiones políticas relacionadas con el cambio climático, se comparten conocimientos científicos sobre el tema, se discuten desacuerdos en las negociaciones y se establecen directrices para que los países aborden este desafío. Los principales acuerdos internacionales vigentes en materia de cambio climático incluyen:
     .row
       .col-lg-9
         .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
+          .tarjeta-avatar-b__img(data-aos="fade-left")
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
-          .tarjeta.tarjeta--azul.tituhoja(style="background-color:#C1E29A;margin-left: -16%;")
+          .tarjeta.tarjeta--azul.tituhoja(style="background-color:#C1E29A;margin-left: -16%;")(data-aos="fade-left")
             .row.justify-content-center.align-items-center              
-              .col-lg-12
+              .col-lg-12(data-aos="fade-left")
                 h3(style="color:#264100").mt-2 Convención Marco de las Naciones Unidas sobre Cambio Climático (CMNUCC)
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Dentro del marco de la Convención Marco de las Naciones Unidas sobre Cambio Climático (CMNUCC), se establecieron una serie de principios, responsabilidades y prioridades para abordar el cambio climático. Algunos de los aspectos más destacados incluyen:
     .row
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema2/img2.svg' alt='AvatarTop')
@@ -43,7 +43,7 @@
               h2 Principio de responsabilidades comunes pero diferenciadas
               p.text-normal Este principio reconoce que, si bien todos los países son responsables de abordar el cambio climático, las naciones desarrolladas tienen una mayor responsabilidad histórica en la creación de emisiones de gases de efecto invernadero y, por lo tanto, tienen la obligación de liderar en la reducción de emisiones. Los países en desarrollo también tienen la responsabilidad de abordar el cambio climático, pero su prioridad es el desarrollo sostenible.
               
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema2/img3.svg' alt='AvatarTop')
@@ -51,7 +51,7 @@
             .p-4
               h2 Mitigación de emisiones
               p.text-normal Los países desarrollados se comprometieron a tomar medidas significativas para reducir sus emisiones de gases de efecto invernadero. Esto se logra a través de políticas y acciones para limitar las emisiones en sectores clave, como la energía, el transporte y la industria.
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema2/img4.svg' alt='AvatarTop')
@@ -59,7 +59,7 @@
             .p-4
               h2 Adaptación al cambio climático
               p.text-normal Se reconoce la necesidad de que todos los países se adapten a los impactos del cambio climático, especialmente aquellos más vulnerables. Los países en desarrollo reciben apoyo para desarrollar capacidades y estrategias de adaptación.
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema2/img5.svg' alt='AvatarTop')
@@ -67,7 +67,7 @@
             .p-4
               h2 Transferencia de tecnología y financiamiento
               p.text-normal Los países desarrollados se comprometieron a proporcionar recursos financieros y tecnológicos a los países en desarrollo para ayudarlos en sus esfuerzos de mitigación y adaptación.
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema2/img6.svg' alt='AvatarTop')
@@ -75,7 +75,7 @@
             .p-4
               h2 Cooperación Internacional
               p.text-normal Se promueve la cooperación y la colaboración entre países para abordar el cambio climático. Esto incluye compartir conocimientos y experiencias, así como trabajar juntos en proyectos y programas relacionados con el clima.
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema2/img7.svg' alt='AvatarTop')
@@ -84,7 +84,7 @@
               h2 Transparencia y reporte de acciones
               p.text-normal Los países deben informar sobre sus emisiones y acciones relacionadas con el cambio climático de manera transparente y regular. Esto facilita la revisión y el monitoreo de los compromisos.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Estos principios y compromisos son fundamentales para la CMNUCC y han influido en acuerdos posteriores, como el Protocolo de Kioto y el Acuerdo de París. El objetivo general es abordar el cambio climático de manera efectiva y justa, teniendo en cuenta las diferencias en desarrollo y responsabilidades entre los países.
         p Además, se establecieron los siguientes compromisos:
     .tarjeta.tarjeta--amarilla.p-4.mb-4(style="background-color:#EEFFDE")
@@ -104,7 +104,7 @@
             h3 Entrega de información
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                p Las partes entregarán periódicamente información detallada de las políticas adoptadas, de las medidas y proyecciones con el fin de volver a las emisiones de gases de1990.
+                p Las partes entregarán periódicamente información detallada de las políticas adoptadas, de las medidas y proyecciones con el fin de volver a las emisiones de gases de 1990.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img9.png', alt='Imagen decorativa')
@@ -122,18 +122,18 @@
             h3 Evaluación
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                p La conferencia evaluará la pertinencia de los puntos anteriores teniendo en cuenta información sobre el cambio climático y sus consecuencias, así como información técnica, social y económica pertinente para adoptar medidas apropiadas.
+                p La conferencia evaluará la pertinencia de los puntos anteriores, teniendo en cuenta información sobre el cambio climático y sus consecuencias, así como información técnica, social y económica pertinente para adoptar medidas apropiadas.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img11.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p A manera de apoyo, las partes desarrolladas se comprometieron a proporcionar recursos financieros, así como transferencia de tecnología y ayudar a las partes en desarrollo, para cumplir el objetivo propuesto. También cubrirán los costos relacionados con adaptación de cambios adversos de las partes en desarrollo, llevando a la práctica los compromisos adquiridos, incluso las medidas de financiación y transferencia de tecnología a países en desarrollo, especialmente: 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imagen decorativa')
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         ul.lista-ul
           li 
             i.lista-ul__vineta
@@ -163,11 +163,11 @@
             i.lista-ul__vineta
             | Países sin litoral.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Para el caso de Colombia, el convenio fue ratificado mediante la Ley 164 de 1994 y se continúa trabajando en la actualización de la información respecto a la mitigación, adaptación y medios de implementación.
     
     .row
-      .col-lg-9
+      .col-lg-9(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -176,10 +176,10 @@
               .col-lg-12
                 h3(style="color:#264100").mt-2 Protocolo de Montreal
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p  Es un acuerdo ambiental internacional creado en 1987 como parte del Convenio de Viena para la protección de la capa de ozono. Su objetivo principal es proteger la capa de ozono de la Tierra al eliminar gradualmente las sustancias que la agotan. Estas sustancias son conocidas como Sustancias Agotadoras del Ozono (SAO). Algunas de las SAO incluyen:
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -189,7 +189,7 @@
           h3.text-center Clorofluorocarbonos (CFC)
           p.text-small Estos compuestos químicos se solían usar en sistemas de refrigeración, aerosoles y espumas aislantes. Son particularmente dañinos para la capa de ozono.
 
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -199,7 +199,7 @@
           h3.text-center Hidroclorofluorocarbonos (HCFC)
           p.text-small Son una alternativa a los CFC y se usan en sistemas de refrigeración y aire acondicionado.
 
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -209,7 +209,7 @@
           h3.text-center Halones
           p.text-small Se emplean en sistemas de extinción de incendios.
 
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -218,7 +218,7 @@
 
           h3.text-center Bromuro de metilo
           p.text-small Utilizado como pesticida en la agricultura.
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -228,7 +228,7 @@
           h3.text-center Metilcloroformo
           p.text-small Solía usarse como disolvente y en la fabricación de piezas de plástico y caucho.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-left")
         p Estas sustancias químicas tienen la capacidad de agotar la capa de ozono y a esto se le conoce como Potencial de Agotamiento del Ozono (PAO), a cada sustancia se le asigna un PAO relativo, cuyo PAO por definición tiene el valor 1. Los usos más comunes donde se encuentran las SAO son:
     .tarjeta.tarjeta--verde.p-4.mb-4(style="background-color:#EEFFDE")
       SlyderA(tipo="b")(data-aos="flip-right")
@@ -282,7 +282,7 @@
             h3 Esterilizantes
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                p Son dispositivos diseñados para eliminar el calor de un espacio, manteniendo temperaturas más bajas. Los sistemas de refrigeración comunes incluyen refrigeradores, aires acondicionados y congeladores. 
+                p Como el óxido de etileno y el formaldehído, utilizados en la industria médica y de alimentos, pueden tener impactos ambientales negativos. Su liberación en el aire y agua puede ser tóxica y contribuir a la contaminación
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img23.png', alt='Imagen decorativa')
@@ -305,13 +305,13 @@
             figure
               img(src='@/assets/curso/temas/tema2/img25.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Gracias a sus regulaciones y metas, ha permitido la eliminación de la producción y consumo de la gran mayoría de sustancias agotadoras de la capa de ozono. Esto no solo ha contribuido a la protección de la capa de ozono, sino que también ha tenido impactos positivos adicionales en la lucha contra el cambio climático y la promoción de la eficiencia energética.
         p Este protocolo ha sido un ejemplo destacado de cómo la cooperación internacional puede ser efectiva en la solución de problemas medioambientales globales. La eliminación de estas sustancias no solo ha ayudado a prevenir daños a la capa de ozono, sino que también ha tenido un efecto positivo en la seguridad alimentaria y en la reducción de la emisión de gases de efecto invernadero, lo que contribuye a la mitigación del cambio climático.
         p En resumen, el Protocolo de Montreal es un caso de éxito en la protección del medio ambiente y en la promoción de prácticas más sostenibles a nivel mundial.
     
     .row
-      .col-lg-9
+      .col-lg-9(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -320,32 +320,32 @@
               .col-lg-12
                 h3(style="color:#264100").mt-2 Protocolo de Kioto
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p El Protocolo de Kioto, que forma parte de la Convención Marco de las Naciones Unidas sobre el Cambio Climático, fue un acuerdo fundamental en la lucha contra el cambio climático. A través de este protocolo, se establecieron compromisos vinculantes para que los países redujeran sus emisiones de gases de efecto invernadero, con el objetivo de mitigar el cambio climático. Aquí se indican algunos de los aspectos clave relacionados con el Protocolo de Kioto:
     
     .row
-      .col-md-6.col-xl.mb-4.mb-xl-0
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-left")
         .tarjeta-numerada.color-primario.p-5
           .tarjeta-numerada__numero
             .h2 1
           p.text-center Fue firmado en 1997 por 84 países, lo que marcó un paso importante en la cooperación internacional para abordar el cambio climático.
 
-      .col-md-6.col-xl.mb-4.mb-xl-0
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-left")
         .tarjeta-numerada.color-secundario.p-5
           .tarjeta-numerada__numero
             .h2 2
           p.text-center Su objetivo principal fue comprometer a las partes a limitar y reducir las emisiones de gases de efecto invernadero, reconociendo que estas emisiones estaban contribuyendo al calentamiento global.
 
-      .col-md-6.col-xl.mb-4.mb-xl-0
+      .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-left")
         .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
             .h2 3
           p.text-center El protocolo recibió un amplio apoyo y fue ratificado por 189 países, lo que subraya la importancia de este acuerdo a nivel mundial.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p Para cumplir con los compromisos establecidos en el Protocolo de Kioto, las partes acordaron implementar una serie de medidas y acciones. Estos compromisos reflejan el reconocimiento de la comunidad internacional de que era necesario tomar medidas concretas para abordar el cambio climático y reducir las emisiones de gases de efecto invernadero. Para cumplir con los compromisos las partes establecieron:
+      .col-lg-12(data-aos="fade-left")
+        p Para cumplir con los compromisos establecidos en el Protocolo de Kioto, las partes acordaron implementar una serie de medidas y acciones. Estos compromisos reflejan el reconocimiento de la comunidad internacional de que era necesario tomar medidas concretas para abordar el cambio climático y reducir las emisiones de gases de efecto invernadero. Para cumplir con los compromisos, las partes establecieron:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop
+      .col-lg-10.desktop(data-aos="flip-right")
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -381,17 +381,17 @@
             .h5.mb-2 
             p Promover la limitación o reducción de las emisiones de metano, mediante la gestión de desechos en la producción, el transporte y la distribución de energía.
       
-      .col-lg-12.movil
+      .col-lg-12.movil(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema2/img26_1.svg', alt='')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Colombia por su parte, ha participado en los siguientes convenios internacionales (MADS, 2022): 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img27.png', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         ul.lista-ul
           li
             i.fas.fa-circle.fa-xs
@@ -436,11 +436,11 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.2 Políticas nacionales
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Colombia ha implementado políticas y estrategias para abordar el cambio climático, que incluyen estrategias territoriales adaptadas a las condiciones regionales, una Estrategia Nacional Baja en Carbono para reducir las emisiones de gases de efecto invernadero, una Política Nacional de Cambio Climático que guía las acciones nacionales y metas de sostenibilidad ambiental en el Plan Nacional de Desarrollo. Además, se han establecido incentivos para fomentar las energías renovables y se llevan a cabo proyectos de reforestación y conservación para aumentar la absorción de carbono y preservar la biodiversidad. Estas medidas reflejan el compromiso de Colombia en la lucha contra el cambio climático y la promoción de un desarrollo sostenible a nivel nacional y regional.
     
     .row
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -449,35 +449,35 @@
               .col-lg-12
                 h3(style="color:#264100").mt-2 Estrategia nacional baja en carbono
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p La Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC) es un programa de planeación con actividades a corto, mediano y largo plazo (MADS, 2012): 
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-primario.p-5
+      .col-md.tarjeta.color-primario.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema2/img28.png', alt='Imagen decorativa')
-        p Busca fortalecer el crecimiento social y económico del país teniendo en cuenta que las actividades produzcan mínimas cantidades de emisiones de gases de efecto invernadero.
-      .col-md.tarjeta.color-secundario.p-5
+        p Busca fortalecer el crecimiento social y económico del país, teniendo en cuenta que las actividades produzcan mínimas cantidades de emisiones de gases de efecto invernadero.
+      .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema2/img29.png', alt='Imagen decorativa')        
         p Los sectores de la economía que se evaluaron fueron industria, energía, minería, transporte, vivienda, residuos y agricultura.
-      .col-md.tarjeta.color-acento-contenido.p-5
+      .col-md.tarjeta.color-acento-contenido.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema2/img30.png', alt='Imagen decorativa')        
         p Identifica y valora acciones enfocadas a disminuir el aumento acelerado de las emisiones de gases de efecto invernadero en relación con el crecimiento de los sectores de la economía, desarrollando planes de acción de mitigación en cada renglón de la economía y formular y promover herramientas para su desarrollo.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Esta estrategia comprende los siguientes componentes:
     
     .tarjeta.tarjeta--gris.p-4.mb-5
       PasosB.color-acento-contenido
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.col-sm-12.mb-md-0
             h4 Proyección de escenarios sectoriales futuros y opciones de desarrollo bajo en carbono
             p Implica la construcción de escenarios de emisiones de gases de efecto invernadero hasta el año 2040. Estos escenarios permiten analizar cómo podrían evolucionar las emisiones en diferentes sectores y en qué medida se pueden reducir.
             p Además, se identifican acciones de mitigación que pueden ayudar a reducir las emisiones en esos sectores. Se evalúan los costos y el potencial de éxito de estas medidas para determinar su viabilidad. También se busca la evaluación de estas medidas por parte de expertos, lo que puede proporcionar una visión más completa de su efectividad y viabilidad.
@@ -485,35 +485,35 @@
             figure
               img(src='@/assets/curso/temas/tema2/img31.png', alt='Imagen decorativa') 
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.col-sm-12.mb-md-0
             h4 Planes de acciones sectoriales
             p Son estrategias diseñadas para cumplir con diversos objetivos, que incluyen promover el desarrollo económico del sector correspondiente, reducir las emisiones de gases de efecto invernadero, generar beneficios económicos, sociales y ambientales, y evaluar los costos de implementación. Estos planes buscan alcanzar un equilibrio que favorezca el crecimiento sostenible, la protección del medio ambiente y el bienestar de la sociedad, garantizando al mismo tiempo la viabilidad financiera de las medidas propuestas.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img32.png', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.col-sm-12.mb-md-0
             h4 Implementación y seguimiento de los planes de acción sectoriales y desarrollo del sistema de monitoreo y reporte
             p Esto involucra considerar cómo se financiarán las acciones, establecer acuerdos y proporcionar incentivos, así como ofrecer capacitación a los actores involucrados. Además, es fundamental desarrollar un sistema de monitoreo y reporte efectivo para evaluar el progreso y los resultados de estos planes, lo que garantiza la transparencia y la rendición de cuentas en el cumplimiento de los objetivos establecidos.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img33.png', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.col-sm-12.mb-md-0
             h4 Construcción de capacidades
             p Se llevó a cabo a través de reuniones con expertos de diversos sectores económicos y especialistas relacionados con la estrategia. Estas interacciones permitieron un intercambio de ideas y conocimientos entre las partes, fortaleciendo así la preparación y competencia de los involucrados en la implementación de la estrategia. Este enfoque en el desarrollo de habilidades y conocimientos es fundamental para garantizar el éxito de las acciones planificadas.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img34.png', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.col-sm-12.mb-md-0
             h4 Plataforma de comunicación y cooperación de la estrategia
             p No solo se enfoca en la generación de información y contenido relacionados con el cambio climático, sino que también promueve y fortalece la colaboración a nivel internacional en temas clave como la transferencia de tecnología y conocimiento, así como la identificación de fuentes de financiamiento. Diversas entidades internacionales, incluyendo el Banco Interamericano de Desarrollo (BID), el Banco Mundial, la Embajada del Reino Unido y el Fondo Mundial para el Medio Ambiente, así como gobiernos de países como Alemania, Holanda y Canadá, han brindado su apoyo y cooperación en esta iniciativa, lo que resalta la importancia de la colaboración global en la lucha contra el cambio climático.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img35.png', alt='Imagen decorativa')
     .row
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -522,7 +522,7 @@
               .col-lg-12
                 h3(style="color:#264100").mt-2 Política nacional de adaptación al cambio climático
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .cajon-b.color-acento-contenido.p-3.mb-5
           p Es una respuesta a la creciente preocupación global sobre los efectos del cambio climático, en la cual Colombia asume su responsabilidad. Esto implica un desafío para adoptar prácticas económicas que reduzcan las emisiones de gases de efecto invernadero y se adapten a las condiciones cambiantes del clima. El objetivo de esta política es integrar la gestión del cambio climático en las decisiones tanto del sector público como privado, promoviendo un desarrollo que sea resistente al clima y con bajas emisiones de carbono. Esto permitirá reducir los riesgos asociados al cambio climático y aprovechar las oportunidades que surgen de esta problemática. La política propone estrategias territoriales para la adaptación y mitigación de las emisiones de gases de efecto invernadero en diferentes sectores:
       .col-lg-6
@@ -535,7 +535,7 @@
           .col-lg-1.col-6
             figure
               img(src='@/assets/curso/temas/tema2/img38.svg', alt='Imagen decorativa')
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             h4 Desarrollo rural bajo en carbono y resiliente al clima
             ul.lista-ul
               li
@@ -550,7 +550,7 @@
           .col-lg-1.col-6
             figure
               img(src='@/assets/curso/temas/tema2/img39.svg', alt='Imagen decorativa')
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             h4 Desarrollo urbano bajo en carbono y resiliente al clima
             ul.lista-ul
               li
@@ -564,7 +564,7 @@
           .col-lg-1.col-6
             figure
               img(src='@/assets/curso/temas/tema2/img40.svg', alt='Imagen decorativa')
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             h4 Desarrollo minero-energético bajo en carbono y resiliente al clima
             ul.lista-ul
               li
@@ -578,7 +578,7 @@
           .col-lg-1.col-6
             figure
               img(src='@/assets/curso/temas/tema2/img41.svg', alt='Imagen decorativa')
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             h4 Desarrollo de infraestructura baja en carbono y resiliente al clima
             ul.lista-ul
               li
@@ -593,7 +593,7 @@
           .col-lg-1.col-6
             figure
               img(src='@/assets/curso/temas/tema2/img42.svg', alt='Imagen decorativa')
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             h4 Manejo y conservación de ecosistemas y servicios ecosistémicos para un desarrollo bajo en carbono y resiliente al clima
             ul.lista-ul
               li
@@ -631,7 +631,7 @@
             .col-md-12.mb-4.mb-md-0          
               p Mejorar la capacidad institucional de las autoridades ambientales.                
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-left")
         p Estas estrategias buscan abordar los riesgos asociados al cambio climático y promover un desarrollo sostenible y resiliente al clima en Colombia.
 </template>
 

@@ -160,7 +160,7 @@ export default {
       referencia:
         'UNESCO en español. (2017). <em>Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos</em> [Video]. YouTube. ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=MCKH5xk8X-g&t=36s',
+      link: 'https://www.youtube.com/watch?v=MCKH5xk8X-g&t=0s',
     },
   ],
   glosario: [
@@ -223,7 +223,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2017). Política Nacional de Cambio Climático',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2017). Política Nacional de Cambio Climático.',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2022/01/9.-Politica-Nacional-de-Cambio-Climatico.pdf ',
     },
@@ -241,12 +241,12 @@ export default {
     },
     {
       referencia:
-        'Naciones Unidas. (1998). Protocolo de Kyoto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático',
+        'Naciones Unidas. (1998). Protocolo de Kyoto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.',
       link: 'https://unfccc.int/resource/docs/convkp/kpspan.pdf ',
     },
     {
       referencia:
-        'Naciones Unidas. (2021). La Agenda para el Desarrollo Sostenible- Desarrollo Sostenible',
+        'Naciones Unidas. (2021). La Agenda para el Desarrollo Sostenible- Desarrollo Sostenible.',
       link: 'https://www.un.org/sustainabledevelopment/es/development-agenda',
     },
     {
@@ -255,7 +255,7 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial de la Salud. (2005). Guías de calidad del aire de la OMS relativas al material particulado, el ozono, el dióxido de Nitrógeno y el dióxido de Azufre. ',
+        'Organización Mundial de la Salud. (2005). Guías de calidad del aire de la OMS relativas al material particulado, el ozono, el dióxido de Nitrógeno y el dióxido de Azufre.',
       link:
         'http://apps.who.int/iris/bitstream/handle/10665/69478/WHO_SDE_PHE_OEH_06.02_spa.pdf;jsessionid=A663DBF3E94ACE5F12A0B16B0023D016?sequence=1',
     },
@@ -297,7 +297,7 @@ export default {
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },

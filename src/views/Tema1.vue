@@ -11,7 +11,7 @@
       .col-lg-3
         figure(data-aos="flip-right")
           img(src="@/assets/curso/temas/tema1/img1.png", alt="Imagen decorativa")
-      .col-lg-7
+      .col-lg-7(data-aos="flip-right")
         p El cambio climático es una preocupación apremiante que sigue perturbando la vida en nuestro planeta, a pesar de los esfuerzos por reducir y mitigar sus efectos. Para abordar esta crisis, es esencial centrarse en la protección de los ecosistemas y la comunidad. Esto implica fomentar el uso de energías limpias para garantizar la producción de alimentos seguros y la calidad del aire.        
         .bloque-texto-b.color-primario
           .bloque-texto-b__texto        
@@ -22,110 +22,110 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.1 Antecedentes
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p A lo largo de la historia, la Tierra ha experimentado variaciones climáticas, pero en tiempos recientes, el cambio climático, marcado por un acelerado calentamiento, se atribuye principalmente a las actividades humanas. Aquí se enumeran algunos de los eventos más significativos que han contribuido a la definición y comprensión del cambio climático desde sus inicios. Hoy en día, estos eventos ocurren con mayor frecuencia y son más impredecibles, lo que ha llevado a que los países unan esfuerzos para crear programas que buscan mitigar los efectos del cambio climático.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         LineaTiempoE.color-acento-contenido
-          .row(titulo="1856" subtitulo="")        
-            .col-lg-5
+          .row(titulo="1856" subtitulo="")
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Eunice Foote descubre que el Dióxido de Carbono (CO2) y el vapor de agua, atrapan calor en la atmósfera.
 
           .row(titulo="1860" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p John Tyndall identificó el efecto invernadero.
           .row(titulo="1896" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Svante Arrhenius predijo que los cambios del CO2 atmosférico podrían alterar la temperatura de la tierra.
           .row(titulo="1938" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Guy Callendar relacionó los aumentos de CO2 en la atmósfera terrestre con el calentamiento global.
           .row(titulo="1950" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img6.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Aumento acelerado del dióxido de carbono.
           .row(titulo="1970" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Aumento de ciclones y huracanes.
           .row(titulo="1972" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img8.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Grandes sequías en África, Ucrania e India causan crisis global de alimentos.
           .row(titulo="1973" subtitulo="")
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img9.svg', alt='Imagen decorativa')                
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p James Lovelock identifican a los clorofluorocarbonos (CFC), al ozono y al metano como gases invernadero.
 
       .col-lg-6
         LineaTiempoE.color-acento-contenido
           .row(titulo="1978" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Disminución de los casquetes glaciales y el hielo marino ártico.
           .row(titulo="1985" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Ramanathan y colaboradores demostraron que los CFC junto con el metano y otros gases podrían tener un efecto en el clima como el aumento del CO2.
           .row(titulo="1990" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Creación del Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).
           .row(titulo="2003" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Europa experimenta uno de los veranos más calurosos, causando la muerte de personas.
           .row(titulo="2005" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Protocolo de Kioto.
           .row(titulo="2011" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img15.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Accidente en planta Fukushima (Japón) cierra esperanza de energía nuclear. 
           .row(titulo="2015" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Acuerdo de París: medidas para la reducción de las emisiones de gases de efecto invernadero a través de la mitigación, adaptación y resiliencia de los ecosistemas a efectos del cambio climático.
           .row(titulo="2022" subtitulo="")        
-            .col-lg-5
+            .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen decorativa')
-            .col-lg-6.mb-4.mb-lg-0
+            .col-lg-6.mb-4.mb-lg-0(data-aos="flip-right")
               p Conferencia sobre Cambio Climático de Bonn, revisan si los países están implementando el acuerdo de París.
 
     Separador
@@ -134,7 +134,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.2 Causas e incidencias
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El cambio climático es causado principalmente por la retención de calor en la atmósfera debido a la presencia de gases de efecto invernadero, que son liberados en gran parte por actividades humanas que emplean combustibles fósiles. Algunas de las actividades más comunes que utilizan estos combustibles y generan gases de efecto invernadero, como el dióxido de carbono y el metano, incluyen:
     .tarjeta.tarjeta--amarilla.p-4.mb-4(style="background-color:#EEFFDE")
       SlyderA(tipo="b")(data-aos="flip-right")
@@ -202,13 +202,13 @@
             figure
               img(src='@/assets/curso/temas/tema1/img24.png', alt='Ganadería')              
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Y entre algunas de las incidencias del cambio climático se encuentran:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img25.png', alt='Ganadería') 
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.color-primario.p-4.mb-4
           ol.lista-ol
             li
@@ -248,15 +248,15 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.3 Adaptación
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .cajon-b.color-acento-contenido.derecha.p-3.mb-5
           p.mb-0  El cambio climático es una realidad que está afectando al planeta, y para abordarlo es fundamental que la sociedad adopte medidas de adaptación. Estas medidas buscan proteger el entorno en el que vivimos, nuestra economía y, en última instancia, a la humanidad en general. Es importante destacar que las personas más vulnerables a los riesgos climáticos deben ser una prioridad en este proceso de adaptación, ya que son las más afectadas por los cambios en el clima.
         p La capacidad de adaptación de una sociedad o un ecosistema está directamente relacionada con su desarrollo social y económico. Los países en desarrollo suelen ser más vulnerables al cambio climático, ya que a menudo carecen de los recursos necesarios para adaptarse. Por lo tanto, es fundamental que haya apoyo internacional para ayudar a estos países en su proceso de adaptación.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img26.svg', alt='Imagen decorativa')
-      .col-lg-7
+      .col-lg-7(data-aos="flip-right")
         p En el diseño de políticas de adaptación, se deben considerar varios principios fundamentales, como la variabilidad de los efectos del cambio climático por región, la importancia de tener en cuenta diferentes grupos demográficos y la naturaleza sistémica de los impactos climáticos. Además, es esencial reconocer que la mala adaptación puede tener consecuencias tan graves como los efectos directos del cambio climático.
         .bloque-texto-b.color-primario
           .bloque-texto-b__texto        
@@ -268,7 +268,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.4 Mitigación
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .cajon.color-secundario.p-4.mb-4
           p La mitigación se refiere a las acciones que se toman para reducir, prevenir o evitar las emisiones de gases de efecto invernadero, contribuyendo así a combatir el cambio climático. Estas acciones pueden ser tanto a gran escala, como los planes nacionales de reducción de emisiones, o a nivel individual, como prácticas de reciclaje en los hogares. Lo fundamental es que se están realizando esfuerzos a nivel global para abordar este problema.
           p Algunos ejemplos de acciones de mitigación incluyen:
@@ -297,7 +297,7 @@
             .col-md-12.mb-4.mb-md-0          
               p Desarrollar tecnologías que capturen el dióxido de carbono de las emisiones industriales y lo almacenen de manera segura bajo tierra.
               
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img27.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
