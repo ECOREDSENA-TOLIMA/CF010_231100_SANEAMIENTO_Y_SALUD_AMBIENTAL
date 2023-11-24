@@ -208,24 +208,9 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2012). Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC). ',
-      link: 'https://www.car.gov.co/uploads/files/5ade3a8222934.pdf',
-    },
-    {
-      referencia:
-        'Global Climate Change. (2022). ¿Cómo sabemos que el cambio climático es real?. ',
-      link: 'https://climate.nasa.gov/evidencia/',
-    },
-    {
-      referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2012). Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC). ',
-      link: 'https://www.car.gov.co/uploads/files/5ade3a8222934.pdf ',
-    },
-    {
-      referencia:
         'Ministerio de Ambiente y Desarrollo Sostenible. (2017). Política Nacional de Cambio Climático.',
       link:
-        'https://www.minambiente.gov.co/wp-content/uploads/2022/01/9.-Politica-Nacional-de-Cambio-Climatico.pdf ',
+        'https://www.minambiente.gov.co/wp-content/uploads/2022/01/9.-Politica-Nacional-de-Cambio-Climatico.pdf',
     },
     {
       referencia:
@@ -235,14 +220,14 @@ export default {
     },
     {
       referencia:
-        'Naciones Unidas. (1992). Convención Marco de las Naciones Unidas sobre el cambio climático. ',
+        'Naciones Unidas. (1992). Convención Marco de las Naciones Unidas sobre el cambio climático.',
       link:
-        'https://observatoriop10.cepal.org/sites/default/files/documents/treaties/unfccc_sp.pdf ',
+        'https://observatoriop10.cepal.org/sites/default/files/documents/treaties/unfccc_sp.pdf',
     },
     {
       referencia:
         'Naciones Unidas. (1998). Protocolo de Kyoto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.',
-      link: 'https://unfccc.int/resource/docs/convkp/kpspan.pdf ',
+      link: 'https://unfccc.int/resource/docs/convkp/kpspan.pdf',
     },
     {
       referencia:

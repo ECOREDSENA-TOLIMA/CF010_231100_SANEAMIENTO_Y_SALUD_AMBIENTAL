@@ -273,7 +273,7 @@
             h3 Extintores
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                p Como el óxido de etileno y el formaldehído, utilizados en la industria médica y de alimentos, pueden tener impactos ambientales negativos. Su liberación en el aire y agua puede ser tóxica y contribuir a la contaminación.
+                p Pueden afectar el medio ambiente debido a sus agentes extintores. Los extintores que utilizan halones, como el halón-1211, liberan sustancias químicas que dañan la capa de ozono. Para mitigar este impacto, se han desarrollado alternativas más ecológicas, como extintores de polvo químico seco, que son menos perjudiciales para la atmósfera.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img22.png', alt='Imagen decorativa')
@@ -601,7 +601,7 @@
                 | Fuentes de emisión de GEI en el manejo y conservación de ecosistemas: deforestación, quema de biomasa, expansión agropecuaria y descomposición de materia orgánica.
               li
                 i.fas.fa-check.text-vineta
-                | Líneas de acción propuestas: reducir la deforestación, promover prácticas de conservación y manejo sostenible de ecosistemas, y mitigar la expansión agropecuaria. A continuación, se encuentra como se llevará a cabo este manejo .
+                | Líneas de acción propuestas: reducir la deforestación, promover prácticas de conservación y manejo sostenible de ecosistemas, y mitigar la expansión agropecuaria. A continuación, se encuentra como se llevará a cabo este manejo.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
