@@ -208,6 +208,21 @@ export default {
   referencias: [
     {
       referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2012). Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC).',
+      link: 'https://www.car.gov.co/uploads/files/5ade3a8222934.pdf',
+    },
+    {
+      referencia:
+        'Global Climate Change. (2022). ¿Cómo sabemos que el cambio climático es real?.',
+      link: 'https://climate.nasa.gov/evidencia/',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2012). Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC).',
+      link: 'https://www.car.gov.co/uploads/files/5ade3a8222934.pdf',
+    },
+    {
+      referencia:
         'Ministerio de Ambiente y Desarrollo Sostenible. (2017). Política Nacional de Cambio Climático.',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2022/01/9.-Politica-Nacional-de-Cambio-Climatico.pdf',
@@ -226,7 +241,7 @@ export default {
     },
     {
       referencia:
-        'Naciones Unidas. (1998). Protocolo de Kyoto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.',
+        'Naciones Unidas. (1998). Protocolo de Kyoto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. ',
       link: 'https://unfccc.int/resource/docs/convkp/kpspan.pdf',
     },
     {
@@ -236,13 +251,13 @@ export default {
     },
     {
       referencia: 'Naciones Unidas. (2022). ¿Qué es el cambio climático?.',
-      link: 'https://www.un.org/es/climatechange/what-is-climate-change',
+      link: 'https://www.un.org/es/climatechange/what-is-climate-change ',
     },
     {
       referencia:
         'Organización Mundial de la Salud. (2005). Guías de calidad del aire de la OMS relativas al material particulado, el ozono, el dióxido de Nitrógeno y el dióxido de Azufre.',
       link:
-        'http://apps.who.int/iris/bitstream/handle/10665/69478/WHO_SDE_PHE_OEH_06.02_spa.pdf;jsessionid=A663DBF3E94ACE5F12A0B16B0023D016?sequence=1',
+        'http://apps.who.int/iris/bitstream/handle/10665/69478/WHO_SDE_PHE_OEH_06.02_spa.pdf;jsessionid=A663DBF3E94ACE5F12A0B16B0023D016?sequence=1 ',
     },
   ],
   creditos: [
@@ -256,7 +271,7 @@ export default {
         },
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -265,15 +280,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Lizeth Daniela Reinoso Diaz',
-          cargo: 'Experta temática',
+          nombre: 'Diana Carolina Sánchez Rodríguez',
+          cargo: 'Experta Temática',
           centro: 'Regional Tolima. Centro Agropecuario La Granja',
         },
         {
-          nombre: 'Oscar Absalón Guevara',
-          cargo: 'Diseñador instruccional',
-          centro:
-            'Regional Santander. Centro de la Industria, la Empresa y los Servicios – CIES',
+          nombre: 'Gustavo Santis Mancipe',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital  - Centro de Gestión Industrial',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
@@ -287,19 +301,24 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },
         {
-          nombre: 'Julia Isabel Roberto',
-          cargo: 'Correctora de estilo',
-          centro: 'egional Distrito Capital. Centro de Diseño y Metrología',
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Humberto Arias Díaz',
-          cargo: 'Diseñador instruccional',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          nombre: 'Jaslyth Juliana Eraso Casanova',
+          cargo: 'Experta Temática',
+          centro: 'Regional Putumayo - Centro Agroforestal y Acuícola Arapaima',
         },
         {
-          nombre: 'Maria Inés Machado López',
+          nombre: 'Sergio Augusto Ardila Ortiz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Metodóloga',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -307,8 +326,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yobanni Penagos',
-          cargo: 'Diseñador web',
+          nombre: 'Carolina Gómez',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Regional Tolima  Centro de Comercio y Servicios',
         },
         {
@@ -329,6 +348,11 @@ export default {
         {
           nombre: 'Oleg Litvin',
           cargo: 'Animador y Producción audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Veimar Celis Melendez',
+          cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
