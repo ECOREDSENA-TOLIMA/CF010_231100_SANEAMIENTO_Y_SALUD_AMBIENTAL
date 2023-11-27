@@ -208,11 +208,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2012). Estrategia Colombiana de Desarrollo Bajo en Carbono (ECDBC).',
-      link: 'https://www.car.gov.co/uploads/files/5ade3a8222934.pdf',
-    },
-    {
-      referencia:
         'Global Climate Change. (2022). ¿Cómo sabemos que el cambio climático es real?.',
       link: 'https://climate.nasa.gov/evidencia/',
     },
@@ -338,6 +333,11 @@ export default {
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Maria Alejandra Briceño Vera',
+          cargo: 'Producción',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
